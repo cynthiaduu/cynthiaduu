@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Cynthia!
 
 ### 👀 About Me
-I'm a data science enthusiast with a deep passion for transforming data into actionable insights. My expertise lies in the intersection of machine learning, artificial intelligence, and natural language processing. I enjoy working on projects that challenge me to think critically and push the boundaries of what's possible with data.
+I'm a data science enthusiast with a deep passion for transforming data into actionable insights. My expertise lies in the intersection of data analysis, machine learning and artificial intelligence, and natural language processing. I enjoy working on projects that challenge me to think critically and push the boundaries of what's possible with data.
 
 ### 🌱 Currently Learning
 I'm always striving to expand my knowledge and skills. Currently, I'm diving deeper into:
